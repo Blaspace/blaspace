@@ -21,15 +21,16 @@
 
 ## **📌 Featured Projects**  
 
-### **1. FoodExpress – Food Delivery Web App**  
+### **1. Food Delivery Web App**  
 📍 A full-stack food delivery platform connecting users with local restaurants.  
 🔹 **Tech:** React, Node.js, Express, MongoDB, Google Maps API  
-🔹 [Live Demo](#) | [GitHub Repo](#)  
+🔹 [Live Demo](https://restaurant-aosa.onrender.com) | [GitHub Repo](https://github.com/Blaspace/restaurant)  
 
-### **2. TaskMaster – Productivity Management App**  
-📍 A task and project management tool with real-time collaboration.  
-🔹 **Tech:** TypeScript, React, Firebase, Redux  
-🔹 [Live Demo](#) | [GitHub Repo](#)  
+### **2. School Management Application**  
+📍  platform is designed to empower schools, teachers, and students
+to focus on what truly matters  
+🔹 **Tech:** TypeScript, React, Nodejs, MongoDB  
+🔹 [Live Demo](https://school-manager-o95d.onrender.com) | [GitHub Repo](https://github.com/Blaspace/school_manager)  
 
 ## **📈 GitHub Stats**  
 
