@@ -40,9 +40,7 @@
 
 ## **📈 GitHub Stats**  
 
-![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blaspace&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blaspace&layout=compact&theme=dark)  
+![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blaspace&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blaspace&layout=compact&theme=dark)  
 
 ## **📫 Let's Connect!**  
 
